@@ -1,3 +1,10 @@
+indepic's humble fork of cheaters:
+
+* I hope to find a way to get cheaters working in Chrome (b/c I work on a PC). I understand [why that might not happen](https://github.com/ttscoff/cheaters/issues/1). 
+* Other than that, this fork is just for cheat sheets that I create (or steal with credit). I work with XML in the Windows world, so my sheets may be boring, but I still do fun things on my Mac.
+
+The rest of this ↓ is [ttscoff](http://brettterpstra.com/)'s readme. He's the man. 
+<hr/>
 Support Cheaters by contributing to my [GitTip fund](https://www.gittip.com/ttscoff/) or [making a donation](http://brettterpstra.com/donate/).
 
 ![Cheat Sheets Header](http://brettterpstra.com/uploads/2012/03/Cheat-Sheets-Header.jpg)
