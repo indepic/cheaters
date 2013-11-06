@@ -4,3 +4,6 @@ index.html.orig
 .dropbox
 index-Mac.html
 dev
+*.sublime-workspace
+
+*.sublime-project
